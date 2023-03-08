@@ -1,2 +1,12 @@
-# Building-a-Portfolio-
-Building a Portfolio website 
+# Building-a-Portfolio Website-
+
+#Setting Up NextJs and Typescript :
+ 1 - https://nextjs.org/docs/basic-features/typescript
+ -Download Node.js 
+ -Creating the portfolio app using : npx create-next-app@latest --ts
+ - Open it in VSCode using command (code .)
+ - Open the index.tst file and Clean the code 
+#Setting up Tailwind CSS:
+
+
+
