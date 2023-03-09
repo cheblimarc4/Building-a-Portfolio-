@@ -10,6 +10,8 @@
 - Head over that page and run the commands : https://tailwindcss.com/docs/guides/nextjs
 - Restart the server and try changing the color of a header 
 # Building the Header Section :
+- Create a component folder 
+- Create a header component
 
 
 
