@@ -12,7 +12,7 @@
 # Building the Header Section :
 - Create a component folder 
 - Create a header component
-
+- Import react social icons using this command: 
 
 
 
